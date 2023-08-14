@@ -5,6 +5,6 @@ ami_id        = "ami-098dd3a86ea110896"
 instance_type = "t3.medium"
 volume_size   = 60
 
-client      = "tinitiate"
+client      = "dgacm"
 environment = "dev"
 resources_count = 1
